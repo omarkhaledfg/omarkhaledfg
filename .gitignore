@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+source-photo.png
+source-prepped.png
+*.png
+preview-*.svg
+previews/
